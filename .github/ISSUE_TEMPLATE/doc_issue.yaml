@@ -2,13 +2,13 @@ name: Documentation issue
 description: Report a problem with the Mojo docs
 title: "[Docs]"
 labels:
-  - documentation
+  - "documentation,mojo-repo"
 body:
   - type: markdown
     attributes:
       value: |
         Thank you for helping us improve the Mojo docs!
-        
+
         Please add a title above and fill in the following fields so we can understand the problem.
 
   - type: input
